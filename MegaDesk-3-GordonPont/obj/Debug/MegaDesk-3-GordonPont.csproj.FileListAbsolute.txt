@@ -12,3 +12,17 @@ C:\Users\humbl\source\repos\MegaDesk-3-GordonPont\MegaDesk-3-GordonPont\obj\Debu
 C:\Users\humbl\source\repos\MegaDesk-3-GordonPont\MegaDesk-3-GordonPont\obj\Debug\MegaDesk_3_GordonPont.Form1.resources
 C:\Users\humbl\source\repos\MegaDesk-3-GordonPont\MegaDesk-3-GordonPont\obj\Debug\MegaDesk_3_GordonPont.SearchQuotes.resources
 C:\Users\humbl\source\repos\MegaDesk-3-GordonPont\MegaDesk-3-GordonPont\obj\Debug\MegaDesk_3_GordonPont.ViewAllQuotes.resources
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\bin\Debug\MegaDesk-3-GordonPont.exe.config
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\bin\Debug\MegaDesk-3-GordonPont.exe
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\bin\Debug\MegaDesk-3-GordonPont.pdb
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\obj\Debug\MegaDesk-3-GordonPont.csprojAssemblyReference.cache
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\obj\Debug\MegaDesk_3_GordonPont.AddQuote.resources
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\obj\Debug\MegaDesk_3_GordonPont.Form1.resources
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\obj\Debug\MegaDesk_3_GordonPont.MainMenu.resources
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\obj\Debug\MegaDesk_3_GordonPont.Properties.Resources.resources
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\obj\Debug\MegaDesk_3_GordonPont.SearchQuotes.resources
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\obj\Debug\MegaDesk_3_GordonPont.ViewAllQuotes.resources
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\obj\Debug\MegaDesk-3-GordonPont.csproj.GenerateResource.cache
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\obj\Debug\MegaDesk-3-GordonPont.csproj.CoreCompileInputs.cache
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\obj\Debug\MegaDesk-3-GordonPont.exe
+C:\Users\humbl\source\New\Megadesk101\cit365-megadesk1-0-1\MegaDesk-3-GordonPont\obj\Debug\MegaDesk-3-GordonPont.pdb
